@@ -3,6 +3,7 @@
 int main()
 {
 	printf("Hello world");
+	printf("2 change");
 	getch();
 }
 
